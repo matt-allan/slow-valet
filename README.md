@@ -4,8 +4,8 @@ A simple example illustrating slow Curl requests between valet sites.
 
 # Setup
 
-1.) Clone the repo
-2.) setup valet links
+1. Clone the repo
+2. setup valet links
 
 ```bash
 cd server
@@ -14,7 +14,7 @@ cd ../client
 valet link sub.slow-valet
 ```
 
-3.) Run the cient script
+3. Run the cient script
 
 ```
 curl sub.slow-valet.test
